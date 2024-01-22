@@ -26,9 +26,9 @@ Medical professionals often need to assess patients' well-being and predict thei
 
 - **Challenge:** Healthcare professionals rely on free-text notes, causing challenges in patient trajectory modeling due to diverse writing styles, lack of standardization, and the need for advanced text mining techniques.
 
-## Dataset Access and Recommendations
+## Dataset Access
 
-For the purpose of this module, we will use the MIMIC-III dataset, available [here](link). Alternatively, a smaller, publicly available demo version can be used (without textual records). To expedite processing, consider using a random subset of patients for the text portion or uploading a smaller text file to Colab. Uploading to Google Drive and re-mounting it in multiple sittings can also save bandwidth.
+For the purpose of this module, we will use the MIMIC-III dataset, available [here](link). Alternatively, a smaller, publicly available demo version can be used (without textual records). 
 
 ## Module Focus: Patient Morbidity Prediction
 
