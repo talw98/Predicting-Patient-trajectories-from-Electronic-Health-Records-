@@ -1,5 +1,5 @@
 # Predicting Patient trajectories from Electronic Health Records
-*This was a lab assignment of my Masters Degree and under the course 'Medical Text Mining'.*
+*This was a lab assignment of my Masters Degree and under the course 'Medical Text Mining'*.
 
 ## Problem Overview
 
