@@ -1,6 +1,5 @@
 # Predicting Patient trajectories from Electronic Health Records
 
-# Patient Trajectory Prediction Readme
 
 ## Problem Overview
 
